@@ -1,0 +1,21 @@
+#title {
+    background-color: #282828;
+    color: white;
+    padding: 10px;
+    margin: 0px 0px 0px 0px;
+  }
+
+nav {
+    background-color: #8C8C8C;
+    padding: 10px 0px;
+}
+  
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+  
+nav a:hover {
+    background-color: #555;
+}
